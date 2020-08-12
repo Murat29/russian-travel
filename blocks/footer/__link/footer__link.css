@@ -5,11 +5,6 @@
     line-height: 18px;
     text-decoration: none;
     color: white;
-    margin-right: 18px;
-}
-
-.footer__link:last-child {
-    margin-right: 0;
 }
 
 .footer__link:hover {
@@ -21,9 +16,5 @@
     .footer__link {
         font-size: 24px;
         line-height: 24px;
-        margin: 0 0 32px;
-    }
-    .footer__link:last-child {
-        margin-bottom: 48px;
     }
 }
